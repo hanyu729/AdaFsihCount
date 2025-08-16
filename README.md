@@ -14,3 +14,9 @@ As shown in Fig.2, cage 1 features a relatively sparse fish distribution with di
 
 **To download the dataset, please visit the [link](https://caueducn-my.sharepoint.com/:u:/g/personal/hanyuu_cau_edu_cn/EQat8iRyix1Bg9makWWwZ6ABJTBRAmvz2Zh2XwBd0pizMw?e=Ev89gk)！**
 # 2. Public datasets
+The public Carp Counting Dataset (CCD) is used to validate the proposed method’s adaptability to different scene conditions with other fish species. Following the construction principle of the CCD, source and target domains are defined based on varying lighting conditions: images captured outdoors under daylight serve as the source domain, while images taken indoors during the day and at night with supplemental lighting constitute the target domain. Further details are illustrated in Fig. 3.
+
+| ![Image 3](https://github.com/hanyu729/AdaFsihCount/blob/main/Figs/fig2.png) |
+|--------------------------------------------|
+| *Figure 3: Example images from the CCD under varying lighting conditions.* |
+**To download the dataset, please visit the [link](https://caueducn-my.sharepoint.com/:u:/g/personal/hanyuu_cau_edu_cn/EQat8iRyix1Bg9makWWwZ6ABJTBRAmvz2Zh2XwBd0pizMw?e=Ev89gk)！**
