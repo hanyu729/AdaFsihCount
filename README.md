@@ -20,4 +20,15 @@ The public Carp Counting Dataset (CCD) is used to validate the proposed method‚Ä
 |--------------------------------------------|
 | *Figure 3: Example images from the CCD under varying lighting conditions.* |
 
-**To download the dataset, please visit the [link](https://drive.google.com/file/d/1kuBNPusDeWNJmICgud_E4WA5ykAbPxKj/view?usp=sharing)ÔºÅ (If the link is no longer accessible, please contact the author at zlxiang@sdtbu.edu.cn.)**
+**To download the dataset, please contact the author at zlxiang@sdtbu.edu.cn.)**
+
+@article{XIN2025103025,
+title = {A fish counting model based on pyramid vision transformer with multi-scale feature enhancement},
+journal = {Ecological Informatics},
+volume = {86},
+pages = {103025},
+year = {2025},
+issn = {1574-9541},
+doi = {https://doi.org/10.1016/j.ecoinf.2025.103025},
+author = {Jiaming Xin and Yiying Wang and Dashe Li and Zhongliang Xiang},
+}
