@@ -20,4 +20,4 @@ The public Carp Counting Dataset (CCD) is used to validate the proposed method�
 |--------------------------------------------|
 | *Figure 3: Example images from the CCD under varying lighting conditions.* |
 
-**To download the dataset, please visit the [link](https://drive.google.com/file/d/1kuBNPusDeWNJmICgud_E4WA5ykAbPxKj/view?usp=sharing)！**
+**To download the dataset, please visit the [link](https://drive.google.com/file/d/1kuBNPusDeWNJmICgud_E4WA5ykAbPxKj/view?usp=sharing)！ (If the link is no longer accessible, please contact the author at zlxiang@sdtbu.edu.cn.)**
