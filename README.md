@@ -6,7 +6,7 @@ All data were collected from the farming systems of Oplegnathus punctatus operat
 |--------------------------------------------|
 | *Figure 1: Data collection location and scenarios.*       |
 As shown in Fig.2, cage 1 features a relatively sparse fish distribution with dim, bluish water; Cage 2 exhibits a dense fish distribution with dim, greenish water; Cage 3 has a relatively sparse fish distribution with bright, bluish water; and Cage 4 shows a dense fish distribution with turbid, dark green water. Tank 1 contains a sparse fish distribution with bright, bluish water, while Tank 2 also shows a sparse fish distribution but with greenish water and noticeable impurities on the tank’s inner walls.
-| ![Image 2](https://github.com/hanyu729/AdaFishCount/raw/main/Figs/fig2.png) |
+| ![Image 2](https://github.com/hanyu729/AdaFsihCount/blob/main/Figs/fig2.png) |
 |--------------------------------------------|
 | *Figure 2: Example images from different deep-sea cages and aquaculture tanks, with two examples shown for each scenario.*       |
 # 2. Public datasets
